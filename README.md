@@ -21,3 +21,4 @@ GH-900/
 ### ConsoleApp
 - WebApi의 `/cities` 엔드포인트를 호출하여 도시 리스트를 받아 콘솔에 출력합니다.
 
+test
