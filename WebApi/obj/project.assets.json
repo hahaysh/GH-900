@@ -482,19 +482,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\hahay\\.nuget\\packages\\": {}
+    "/home/runner/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Demo\\Temp\\GH-900\\WebApi\\WebApi.csproj",
+      "projectUniqueName": "/home/runner/work/GH-900/GH-900/WebApi/WebApi.csproj",
       "projectName": "WebApi",
-      "projectPath": "C:\\Demo\\Temp\\GH-900\\WebApi\\WebApi.csproj",
-      "packagesPath": "C:\\Users\\hahay\\.nuget\\packages\\",
-      "outputPath": "C:\\Demo\\Temp\\GH-900\\WebApi\\obj\\",
+      "projectPath": "/home/runner/work/GH-900/GH-900/WebApi/WebApi.csproj",
+      "packagesPath": "/home/runner/.nuget/packages/",
+      "outputPath": "/home/runner/work/GH-900/GH-900/WebApi/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\hahay\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "/home/runner/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -512,13 +512,7 @@
         "warnAsError": [
           "NU1605"
         ]
-      },
-      "restoreAuditProperties": {
-        "enableAudit": "true",
-        "auditLevel": "low",
-        "auditMode": "direct"
-      },
-      "SdkAnalysisLevel": "9.0.300"
+      }
     },
     "frameworks": {
       "net8.0": {
@@ -552,7 +546,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.119/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
